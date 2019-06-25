@@ -1,0 +1,9 @@
+
+Raspberry pi 3 booted with the raspian OS
+
+Raspberry pi camera module
+
+Motion software
+	installing
+				sudo apt-get install motion
+
